@@ -43,6 +43,11 @@
   color: black;
 }
 
+/* This was adding by Carlos. Pau had nothing to do. XD */
+.flip-card-front img {
+  object-fit: cover;
+}
+
 /* Style the back side */
 .flip-card-back {
   background-color: gray;
